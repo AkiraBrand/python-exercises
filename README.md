@@ -1,0 +1,1 @@
+This is a series of Python exercises designed to teach integers and float data types. I've used Pytest - to install, run `pip install pytest` and to run the tests, type `pytest ints_and_floats.py` on the command line. Make the tests pass.  
